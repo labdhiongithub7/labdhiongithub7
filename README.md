@@ -4,7 +4,7 @@
 <h4 align="center">I may not have every answer yet, but I’m actively building, learning, and improving. I enjoy working on real-world challenges where technology, data, and decision-making intersect.</h4>
 
 
-- 🎓 B.Tech (Information Technology) + MBA student at IIIT Gwalior
+-🎓 B.Tech (Information Technology) + MBA student at IIIT Gwalior
   
 -💡 Interested in Machine Learning, Deep Learning, Big Data, Cloud-native systems ,Data Structure and Algorithms and Product-oriented Tech  
 

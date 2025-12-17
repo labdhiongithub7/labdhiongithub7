@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm Labdhi</h1>
 <h3 align="center"> 🚀A Passionate Problem Solver </h3> 
 
-I may not have every answer yet, but I’m actively building, learning, and improving. I enjoy working on real-world challenges where technology, data, and decision-making intersect.
+<h4 align="center">I may not have every answer yet, but I’m actively building, learning, and improving. I enjoy working on real-world challenges where technology, data, and decision-making intersect.</h4>
 
 
 🎓 B.Tech (Information Technology) + MBA student at IIIT Gwalior  

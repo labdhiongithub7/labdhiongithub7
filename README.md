@@ -10,7 +10,7 @@ I may not have every answer yet, but I’m actively building, learning, and impr
 
 
 ### 📫 How to reach me
-📧 Email: your-email@gmail.com  
+📧 Email: labdhigandhi.0708@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/labdhigandhi7 
 
 ---

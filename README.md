@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, I'm Labdhi</h1>
-<h3 align="center"> A passionate Problem Solver </h3> 
+<h3 align="center"> 🚀A Passionate Problem Solver </h3> 
 
 I may not have every answer yet, but I’m actively building, learning, and improving. I enjoy working on real-world challenges where technology, data, and decision-making intersect.
 

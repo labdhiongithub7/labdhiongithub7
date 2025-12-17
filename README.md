@@ -6,11 +6,11 @@
 
 
 
-- 🎓 **B.Tech (Information Technology) + MBA** student at IIIT Gwalior
+- 🎓 B.Tech (Information Technology) + MBA student at IIIT Gwalior
   
-- 💡 **Interested in** Machine Learning, Deep Learning, Big Data, Cloud-native systems, Data Structures & Algorithms, and product-oriented technology
+- 💡 Interested in Machine Learning, Deep Learning, Big Data, Cloud-native systems, Data Structures & Algorithms, and product-oriented technology
   
-- 💬 **Ask me about** Python, C++, Machine Learning, Natural Language Processing, and Hadoop
+- 💬 Ask me about Python, C++, Machine Learning, Natural Language Processing, and Hadoop
 
 
 

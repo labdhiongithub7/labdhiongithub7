@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋, I'm Labdhi Gandhi
 
-<!--
-**labdhiongithub7/labdhiongithub7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I may not have every answer yet, but I’m actively building, learning, and improving. I enjoy working on real-world challenges where technology, data, and decision-making intersect.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech (Information Technology) + MBA student at IIIT Gwalior  
+💡 Interested in Machine Learning, Deep Learning, Big Data, Cloud-native systems ,Data Structure and Algorithms and Product-oriented Tech   
+
+---
+
+
+### 📫 How to reach me
+📧 Email: your-email@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/labdhigandhi7 
+
+---
+
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labdhiongithub7&layout=compact" />
+</p>
+
